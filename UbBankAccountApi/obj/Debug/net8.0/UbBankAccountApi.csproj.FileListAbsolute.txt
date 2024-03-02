@@ -30,3 +30,4 @@ D:\SKV\Codes\Assessment\DEVOPS\UbBankAccountApi\obj\Debug\net8.0\refint\UbBankAc
 D:\SKV\Codes\Assessment\DEVOPS\UbBankAccountApi\obj\Debug\net8.0\UbBankAccountApi.pdb
 D:\SKV\Codes\Assessment\DEVOPS\UbBankAccountApi\obj\Debug\net8.0\UbBankAccountApi.genruntimeconfig.cache
 D:\SKV\Codes\Assessment\DEVOPS\UbBankAccountApi\obj\Debug\net8.0\ref\UbBankAccountApi.dll
+D:\SKV\Codes\Assessment\DEVOPS\UbBankAccountApi\obj\Debug\net8.0\UbBankAccountApi.sourcelink.json

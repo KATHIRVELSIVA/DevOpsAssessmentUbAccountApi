@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a7916e4d-cfc7-4ce5-819f-9709b76028d5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("UbBankAccountApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dda387a4153fcc4285b9728202c46e37070b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("UbBankAccountApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UbBankAccountApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
