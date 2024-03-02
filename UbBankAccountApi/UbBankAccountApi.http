@@ -1,0 +1,6 @@
+@UbBankAccountApi_HostAddress = http://localhost:5057
+
+GET {{UbBankAccountApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

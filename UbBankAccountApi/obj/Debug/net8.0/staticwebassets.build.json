@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nz8N7z0eMPDTHdSdhKk0ZrRsrQl5dTMrc3+bJZ8FtcM=",
+  "Source": "UbBankAccountApi",
+  "BasePath": "_content/UbBankAccountApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
